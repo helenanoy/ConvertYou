@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ConvertYou</string>
+    <string name="caption">Easy Convert for Your Conv(mf)ertable</string>
+    <string name="suhu">Temperature</string>
+    <string name="celcius">Celcius</string>
+    <string name="hint_celcius">Masukkan Suhu Celcius</string>
+    <string name="reamur">Reamur</string>
+    <string name="hint_reamur">Masukkan Suhu Reamur</string>
+    <string name="farenheit">Fanrenheit</string>
+    <string name="hint_farenheit">Masukkan Suhu Farenheit</string>
+    <string name="kelvin">Kelvin</string>
+    <string name="hint_kelvin">Masukkan Suhu Kelvin</string>
+    <string name="bilangan">Decimal to Octal</string>
+    <string name="octal">Octal</string>
+    <string name="decimal">Decimal</string>
+    <string name="hint_octal">Masukkan Angka Octal</string>
+    <string name="hint_decimal">Masukkan Angka Decimal</string>
+</resources>
